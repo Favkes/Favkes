@@ -21,8 +21,11 @@
 </div>
 
 ###
-<br><br><br>
-<h2 align="left">Haelo ☕ >B]</h2>
+Yo, I'm Favkes - a 20yo programmer, science and arts madlad and an engineer in spare time.
+<br>
+I'm a CS student at PUT-Poland, with 5 years of experience in programming and an exponentially growing skillset.
+<br><br>
+<h2 align="left">Yo ☕ >B]</h2>
 
 ###
 
