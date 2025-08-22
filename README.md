@@ -55,7 +55,9 @@ I currently study CS at PUT, with **5 years of experience** in programming and a
 
 ###
 
-<img align="left" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Spatial_quadtree_structure_of_the_Barnes-Hut_algorithm_in_the_N-body_problem.gif/250px-Spatial_quadtree_structure_of_the_Barnes-Hut_algorithm_in_the_N-body_problem.gif"  />
+<div align="center">
+  <img height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Spatial_quadtree_structure_of_the_Barnes-Hut_algorithm_in_the_N-body_problem.gif/250px-Spatial_quadtree_structure_of_the_Barnes-Hut_algorithm_in_the_N-body_problem.gif"  />
+</div>
 
 ###
 <h2> My projects! </h2>
