@@ -23,7 +23,7 @@
 ###
 Yo, I'm Favkes - a 20yo programmer, science & arts madlad[,](https://en.wikipedia.org/wiki/Serial_comma) and an engineer in spare time.
 <br>
-I currently study CS at PUT, with 5 years of experience in programming and an exponentially growing skillset.
+I currently study CS at PUT, with **5 years of experience** in programming and an exponentially growing skillset.
 <br><br>
 <h2 align="left">☕ Nice to meet <strong>you</strong> >B]</h2>
 
