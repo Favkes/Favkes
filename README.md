@@ -21,7 +21,7 @@
 </div>
 
 ###
-Yo, I'm Favkes - a 20yo programmer, science and arts madlad and an engineer in spare time.
+Yo, I'm Favkes - a 20yo programmer, science & arts madlad, and an engineer in spare time.
 <br>
 I'm a CS student at PUT-Poland, with 5 years of experience in programming and an exponentially growing skillset.
 <br><br>
