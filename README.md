@@ -112,4 +112,6 @@ I currently study CS at PUT, with **5 years of experience** in programming and a
   </a>
 </div>
 
-###
+
+### Credits
+- Barnes-Hut quadtree simulation GIF by [Perossello](https://commons.wikimedia.org/wiki/File:Spatial_quadtree_structure_of_the_Barnes-Hut_algorithm_in_the_N-body_problem.gif) — CC BY-SA 4.0
