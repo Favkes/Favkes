@@ -55,13 +55,31 @@ I currently study CS at PUT, with **5 years of experience** in programming and a
 
 ###
 
-![Img](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Spatial_quadtree_structure_of_the_Barnes-Hut_algorithm_in_the_N-body_problem.gif/250px-Spatial_quadtree_structure_of_the_Barnes-Hut_algorithm_in_the_N-body_problem.gif)
-<img src="Boids.gif" alt="Boid sim made by me" width="400">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+    <img src="Barnes-Hut algorithm quadtree visualization-created by Perossello (CC BY-SA 4.0).gif" 
+         alt="Barnes-Hut sim by Perossello" width="300">
+    <div style="margin-top: -45px;">
+        <h1> My projects! </h1>
+        <p style="font-size:16px;">
+            They sually focus on delivering some kinds of specialized tools, 
+            that I myself am not able to find publicly. <br><br>
+            Meteorology forecast or gravity simulations are the kinds of stuff that keep me up at night 😁
+        </p>
+    </div>
+</div>
 
-
-###
-<h2> My projects! </h2>
-They sually focus on delivering some kinds of specialized tools that I myself am not able to find publicly.
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+    <div style="margin-top: -34px;">
+        <h2> Or... I just have fun B^ </h2>
+        <p style="font-size:16px;">
+            Some mathematical proofs look astonishing with a good
+            touch of a simulation.. or a trivial brute-force 🦾🔥 <br>
+        </p>
+    </div>
+    <img src="Boids.gif"
+         alt="Boid sim made by me"
+         width="350">
+</div>
 
 ###
 
