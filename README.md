@@ -98,6 +98,27 @@ I currently study CS at PUT, with **5 years of experience** in programming and a
   </tr>
 </table>
 
+
+<table>
+  <tr>
+    <td>
+      <img src="chatter_example.gif" 
+           alt="SimpleTUI package usage example implementing an online chatting service" width="300">
+    </td>
+    <td valign="top">
+      <div style="margin-top: -25px;">
+        <h1>Publically available tools</h1>
+          <p style="font-size:16px;">
+            Some of my more ambitious projects I try to develop in a cultural, structured manner,
+            to make them as available to use as possible. 
+            I'd love to see people actually using my software and enjoying it :>
+          </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
 ###
 
 <div align="center">
